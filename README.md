@@ -1,5 +1,7 @@
 # My do's
 
+Browse site @ https://nifty-darwin-aec8ea.netlify.app/
+
 This project has additionally 1. enabled cors + 2. added target property to next.config.js file so as to fix deploy errors in netlify! Rest it works all fantastic!!
 
 ```bash
