@@ -1,4 +1,4 @@
-# Next + Netlify Starter
+# My do's
 
 This project has additionally 1. enabled cors + 2. added target property to next.config.js file so as to fix deploy errors in netlify! Rest it works all fantastic!!
 
@@ -7,6 +7,8 @@ This project has additionally 1. enabled cors + 2. added target property to next
 quick post 'https://nifty-darwin-aec8ea.netlify.app/api/hello' '{email: "sahilrajput03@gmail.com"}'
 
 ```
+
+## Next + Netlify Starter
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ed50f56e-4fc2-4c98-8b66-1e5074c6f3d3/deploy-status)](https://app.netlify.com/sites/next-starter/deploys)
 
